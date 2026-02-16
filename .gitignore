@@ -1,0 +1,29 @@
+# --- Scala & sbt ---
+target/
+project/target/
+project/project/
+.sbt/
+.bsp/
+.bloop/
+.metals/
+.scala-build/
+*.class
+*.pyc
+
+# --- IDEs ---
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+.classpath
+.project
+.settings/
+bin/
+out/
+
+# --- OS & Temp ---
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
